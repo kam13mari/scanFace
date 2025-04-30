@@ -1,0 +1,14 @@
+path: ../projects/scanFace/masks/learn
+
+
+train: train  
+val: val      
+
+
+# Количество классов
+nc: 2
+
+
+names:
+  0: without_mask
+  1: with_mask
