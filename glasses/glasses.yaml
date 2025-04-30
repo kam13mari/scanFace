@@ -1,0 +1,13 @@
+path: ../projects/scanFace/glasses/learn/ 
+
+train: train  
+val: val      
+# test: images/test 
+
+# количество классов
+nc: 2
+
+# имена классов
+names:
+  0: no glasses
+  1: glasses
