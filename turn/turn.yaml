@@ -1,0 +1,15 @@
+path: ../projects/scanFace/turn/data
+
+# путь к папкам с изображениями 
+train: train  
+val: val      
+# test: images/test 
+
+# количество классов
+nc: 2
+
+# имена классов
+names:
+  0: without_turn
+  1: with_turn
+
